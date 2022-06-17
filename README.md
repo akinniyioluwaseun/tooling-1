@@ -74,7 +74,7 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 
-##### delete this line later, it's for jenkins
+##### delete this line later, it's for jenkins test
 
 
 
